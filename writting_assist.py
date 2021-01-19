@@ -1,0 +1,2 @@
+print("windows")
+print("linux")
